@@ -14,7 +14,8 @@
 5. rm / rmdir - команды для связки действий
 
 
-```mkdir my_project
+```
+mkdir my_project
 cd my_project
 touch first-project
 ```
